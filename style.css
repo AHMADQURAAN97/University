@@ -3,18 +3,27 @@ body{
 }
 
 header nav{
-float :unset;
-width: 20%;
+float :right;
 }
 
+header nav ul li {
+  display: inline-block;
+}
 
 header h1 {
   text-align: center;
-  height:75px;
+  height:20px;
+}
+
+header nav {
+  margin-top: 0px;
 }
 
 header {
-  background-color:blanchedalmond;
+  background-color:blanchedalmond;:350;
+  height:275px;
+
+
 }
 
 
