@@ -1,0 +1,47 @@
+body{
+  margin:0;
+}
+
+header nav{
+float :unset;
+width: 20%;
+}
+
+
+header h1 {
+  text-align: center;
+  height:75px;
+}
+
+header {
+  background-color:blanchedalmond;
+}
+
+
+
+main {
+  background-color: darkkhaki
+}
+
+main h2 {
+  text-align: center;
+}
+
+
+main p {
+color: red;
+}
+
+
+
+
+
+
+
+
+
+footer{
+  background-color:darkcyan;
+  text-align: center;
+  color: darkred
+}
