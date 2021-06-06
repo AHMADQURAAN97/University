@@ -1,8 +1,7 @@
 alert("Welcome To WebPage For University")
 
-var username = 30;
 
-prompt ("Enter Your ID student :")
+var username=prompt ("Enter Your ID student :")
 
 console.log(username);
 
