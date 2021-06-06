@@ -1,17 +1,17 @@
 alert("Welcome To WebPage For University")
 
-var username =0;
+var username = 30;
+
 prompt ("Enter Your ID student :")
 
 console.log(username);
 
-if (username ==0){
-  alert ("HELLO")
-} else if(username >0)
- { alert ("WELCOME")
+if (username <= 25){
+  alert("HELLO")
 } else {
-alert ("HI")
+   alert("WELCOME")
 }
+
 
 
 document.write ("<p style=color:red > Contact Us </p>")
